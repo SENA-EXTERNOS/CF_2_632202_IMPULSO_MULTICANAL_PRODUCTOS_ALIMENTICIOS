@@ -222,32 +222,102 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Seguridad y salud en el trabajo',
+      referencia: 'Ruiz, M. (2016). La seguridad laboral en un hipermercado',
+      tipo: 'Tesis',
+      link:
+        'Anexo1_Material Complementario_CF2_632202 https://drive.google.com/file/d/1Xwh8Y_5tYPIlBkzxv9hIKdesWgoimwv4/view?usp=sharing',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Tipos de almacenamiento',
+      referencia:
+        'Ramírez, N. (2010). Estandarización y control de calidad en procesos de recibo, almacenamiento, distribución y servida de alimentos.',
+      tipo: 'Tesis',
+      descarga:
+        'Anexo2_Material Complementario_CF2_632202 https://drive.google.com/file/d/1w_Vg9N8Ml9VcTPCBV9tbKVuJQapDOIoD/view?usp=sharing ',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Alimento Perecedero:',
+      significado:
+        ' aquellos que inician su descomposición de manera rápida y sencilla. Este deterioro está determinado por factores como la temperatura, la presión o la humedad.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Contaminado:',
+      significado:
+        'producto, objeto o superficie que contiene microorganismos.',
+    },
+    {
+      termino: 'Desecho:',
+      significado:
+        'representa a todos aquellos objetos, sustancias o materiales que sobran o restan de algo que ha sido trabajado, procesado o consumido y que ya no posee algún tipo de uso, es decir, es inservible y, por tanto, necesita ser eliminado.',
+    },
+    {
+      termino: 'Desinfección:',
+      significado:
+        'la reducción del número de microorganismos presentes en el medioambiente, por medio de agentes químicos y/o métodos físicos, a un nivel que no comprometa la inocuidad o la aptitud del alimento.',
+    },
+    {
+      termino: 'Estéril:',
+      significado:
+        'objeto o superficie libre de toda clase de microorganismos.',
+    },
+    {
+      termino: 'Inocuidad:',
+      significado:
+        'característica que garantiza que los alimentos que consumimos no causan daño a nuestra salud, es decir, que durante su producción se aplicaron medidas de higiene para reducir el riesgo de que los alimentos se contaminen.',
+    },
+    {
+      termino: 'Limpieza:',
+      significado:
+        'eliminación de tierra, residuos de alimentos, suciedad, grasa u otras materias objetables.',
+    },
+    {
+      termino: 'Patógeno:',
+      significado:
+        'es un microorganismo que genera una enfermedad o que es perjudicial para la salud.',
+    },
+    {
+      termino: 'Peligro',
+      significado:
+        'un agente biológico, químico o físico presente en el alimento, o bien la condición en que este se halla, que puede causar un efecto adverso para la salud.',
+    },
+    {
+      termino: 'Seguridad:',
+      significado:
+        'es un estado en el cual los peligros y las condiciones que pueden provocar daños de tipo físico, psicológico o material son controlados para preservar la salud y el bienestar de los individuos y de la comunidad.',
+    },
+    {
+      termino: 'Transporte:',
+      significado:
+        'forma parte de la logística, es el conjunto de medios y métodos que permiten organizar un servicio o una empresa.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Díaz, A. & Uría, R. (2009). Buenas prácticas de manufactura: una guía para pequeños y medianos agroempresarios, (No. IICA Q03-14). Editorial IICA',
       link: '',
+    },
+    {
+      referencia:
+        'Garcia, A. & Uribe M. (2005). Limpieza y desinfección de superficies. Editorial SENA',
+      link: '',
+    },
+    {
+      referencia:
+        'Molano, L. (1997). Alternativas de Vida, Compostaje y reciclaje. Editorial SENA',
+      link: '',
+    },
+    {
+      referencia:
+        'Parra, F. y Abizaid, O. (2021). “La formalización de la población recicladora en Colombia como prestadora del servicio público de reciclaje. Logros, oportunidades, restricciones y amenazas. Nota técnica de WIEGO n.º 12. Manchester, Reino Unido: WIEGO',
+      link: '',
+    },
+    {
+      referencia: 'Safetya. (2015).',
+      link: 'https://safetya.co/todo-sobre-el-sg-sst/ ',
     },
   ],
   creditos: {
