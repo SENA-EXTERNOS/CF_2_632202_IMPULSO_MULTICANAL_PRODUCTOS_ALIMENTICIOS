@@ -36,7 +36,7 @@
 
 
     .row.justify-content-center
-      .col-8.col-lg-2
+      .col-8.col-lg-2.mb-5
         figure
           img(src='@/assets/curso/temas/tema1/img1.png', alt='Texto que describa la imagen')
           

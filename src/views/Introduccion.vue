@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5
+    .bloque-texto-g.color-acento-botones.p-4.p-sm-4.p-md-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/intruduccion/img1.png')})`}"
       )

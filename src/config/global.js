@@ -226,15 +226,15 @@ export default {
       referencia: 'Ruiz, M. (2016). La seguridad laboral en un hipermercado',
       tipo: 'Tesis',
       link:
-        'Anexo1_Material Complementario_CF2_632202 https://drive.google.com/file/d/1Xwh8Y_5tYPIlBkzxv9hIKdesWgoimwv4/view?usp=sharing',
+        'https://drive.google.com/file/d/1Xwh8Y_5tYPIlBkzxv9hIKdesWgoimwv4/view?usp=sharing',
     },
     {
       tema: 'Tipos de almacenamiento',
       referencia:
         'Ramírez, N. (2010). Estandarización y control de calidad en procesos de recibo, almacenamiento, distribución y servida de alimentos.',
       tipo: 'Tesis',
-      descarga:
-        'Anexo2_Material Complementario_CF2_632202 https://drive.google.com/file/d/1w_Vg9N8Ml9VcTPCBV9tbKVuJQapDOIoD/view?usp=sharing ',
+      link:
+        'https://drive.google.com/file/d/1w_Vg9N8Ml9VcTPCBV9tbKVuJQapDOIoD/view?usp=sharing',
     },
   ],
   glosario: [

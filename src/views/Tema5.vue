@@ -135,6 +135,7 @@
 
       p.mt-4 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo, para ello diríjase al menú principal en donde encontrará la síntesis, una actividad didáctica, material complementario, entre otros
 
+
 </template>
 
 <script>
