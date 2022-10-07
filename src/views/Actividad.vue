@@ -12,7 +12,7 @@
         .titulo-segundo.color-acento-contenido
           h2 Arrastrar y soltar
 
-        p.mb-4 Cras tempus tortor et nisi tincidunt feugiat. Integer lacus ante, venenatis nec fringilla quis, dapibus ut dui. Fusce imperdiet velit a leo sagittis, id scelerisque massa placerat. Duis at dui sed enim euismod pulvinar quis ac ante. Phasellus condimentum sapien nisi, ac facilisis purus tristique ac. 
+        p.mb-4 Esta es una actividad de “Arrastrar y Soltar, donde encontrará 2 columnas, una de ellas entrega los posibles conceptos y la otra presenta las definiciones vistas a lo largo del componente. Asocie las definiciones con los conceptos correspondientes. Se debe seleccionar una columna, arrastrar y soltar la respuesta relacionada con las definiciones dadas en la siguiente columna.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

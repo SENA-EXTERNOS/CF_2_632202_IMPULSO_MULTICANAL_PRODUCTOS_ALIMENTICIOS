@@ -75,7 +75,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Técnicas de Limpieza y Desinfección',
+        titulo: 'Técnicas de limpieza y desinfección',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -239,42 +239,42 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Alimento Perecedero:',
+      termino: 'Alimento Perecedero',
       significado:
         ' aquellos que inician su descomposición de manera rápida y sencilla. Este deterioro está determinado por factores como la temperatura, la presión o la humedad.',
     },
     {
-      termino: 'Contaminado:',
+      termino: 'Contaminado',
       significado:
         'producto, objeto o superficie que contiene microorganismos.',
     },
     {
-      termino: 'Desecho:',
+      termino: 'Desecho',
       significado:
         'representa a todos aquellos objetos, sustancias o materiales que sobran o restan de algo que ha sido trabajado, procesado o consumido y que ya no posee algún tipo de uso, es decir, es inservible y, por tanto, necesita ser eliminado.',
     },
     {
-      termino: 'Desinfección:',
+      termino: 'Desinfección',
       significado:
         'la reducción del número de microorganismos presentes en el medioambiente, por medio de agentes químicos y/o métodos físicos, a un nivel que no comprometa la inocuidad o la aptitud del alimento.',
     },
     {
-      termino: 'Estéril:',
+      termino: 'Estéril',
       significado:
         'objeto o superficie libre de toda clase de microorganismos.',
     },
     {
-      termino: 'Inocuidad:',
+      termino: 'Inocuidad',
       significado:
         'característica que garantiza que los alimentos que consumimos no causan daño a nuestra salud, es decir, que durante su producción se aplicaron medidas de higiene para reducir el riesgo de que los alimentos se contaminen.',
     },
     {
-      termino: 'Limpieza:',
+      termino: 'Limpieza',
       significado:
         'eliminación de tierra, residuos de alimentos, suciedad, grasa u otras materias objetables.',
     },
     {
-      termino: 'Patógeno:',
+      termino: 'Patógeno',
       significado:
         'es un microorganismo que genera una enfermedad o que es perjudicial para la salud.',
     },
@@ -284,12 +284,12 @@ export default {
         'un agente biológico, químico o físico presente en el alimento, o bien la condición en que este se halla, que puede causar un efecto adverso para la salud.',
     },
     {
-      termino: 'Seguridad:',
+      termino: 'Seguridad',
       significado:
         'es un estado en el cual los peligros y las condiciones que pueden provocar daños de tipo físico, psicológico o material son controlados para preservar la salud y el bienestar de los individuos y de la comunidad.',
     },
     {
-      termino: 'Transporte:',
+      termino: 'Transporte',
       significado:
         'forma parte de la logística, es el conjunto de medios y métodos que permiten organizar un servicio o una empresa.',
     },

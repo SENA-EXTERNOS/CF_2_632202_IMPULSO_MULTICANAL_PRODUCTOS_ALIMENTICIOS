@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Técnicas de Limpieza y Desinfección
+      h1 Técnicas de limpieza y desinfección
 
     .row.justify-content-center.mt-5.mb-5
       .col-8.col-lg-2
@@ -48,7 +48,6 @@
               img(src='@/assets/curso/temas/tema2/img4.png', alt='Texto que describa la imagen')
               
           .col-md-5
-            h3 Pisos
             p.mt-5 Se deben utilizar materiales que no absorban o retengan algún tipo de humedad. Por ejemplo, baldosas de cerámica o algún tipo de material esmaltado que permita la fácil circulación. También son importantes elementos o equipos necesarios para rotar los productos y que su proceso de limpieza y desinfección sea lo más fácil posible, ya que, por ejemplo, la rugosidad o grietas aumenta la propagación de plagas.    
 
       .py-3.py-md-4(titulo="Paredes")
@@ -58,8 +57,7 @@
               img(src='@/assets/curso/temas/tema2/img5.png', alt='Texto que describa la imagen')
               
           .col-md-5
-            h3 Paredes
-            p.mt-5 Las paredes deben ser de un material que permite la limpieza de una manera fácil, por lo menos hasta una altura de 1.8 m. Además, se recomienda que en procesos que tienen elevados porcentajes de humedad se utilicen pendientes de hasta 2 % para la circulación del agua con sus debidas rejillas impidiendo el ingreso de plagas que alteran el producto.
+            p.mt-5 Las paredes deben ser de un material que permite la limpieza de una manera fácil, por lo menos hasta una altura de 1.8 m. Además, se recomienda que en procesos que tienen elevados porcentajes de humedad se utilicen pendientes de hasta 2 % para la circulación del agua con sus debidas rejillas, impidiendo el ingreso de plagas que alteran el producto.
 
       .py-3.py-md-4(titulo="Techos")
         .row.mt-5.justify-content-center.align-items-center
@@ -68,7 +66,6 @@
               img(src='@/assets/curso/temas/tema2/img6.png', alt='Texto que describa la imagen')
              
           .col-md-5
-            h3 Techos
             p.mt-5 Al momento de construir una bodega y un cuarto de almacenamiento es fundamental pensar en los techos, estos deben ser de un material resistente, duradero, deben tener una altura adecuada para la circulación del aire. Asimismo, se debe procurar que no se desprendan ningún tipo de elemento ya sea residuos, gotas o demás que puedan alterar los productos alimenticios.
 
       .py-3.py-md-4(titulo="Puertas y ventanas")
@@ -78,9 +75,8 @@
               img(src='@/assets/curso/temas/tema2/img7.png', alt='Texto que describa la imagen')
               
           .col-md-5
-            h3 Puertas y ventanas
             p.mt-5 Las puertas y ventanas deben estar construidas de un material resistente y de fácil desinfección, qué no entre en contacto ni genere elementos tóxicos que puedan generar algún tipo de contaminación a los alimentos, ejemplo de estos pueden ser materiales antioxidantes como aluminio. También se debe procurar unas dimensiones adecuadas para la circulación de equipos y del personal. 
-            p Las ventanas deben tener una altura adecuada y ser construidas de tal manera que impida el ingreso de plagas y permita la circulación de aire, de luz (esto si aplica), ya que en situaciones como cuartos fríos se procura tener un ambiente completamente aislado de la luz solar con el ánimo de conservar el frío haciendo un uso energético eficiente e impedir el ingreso de plagas. 
+            p Las ventanas deben tener una altura adecuada y ser construidas de tal manera que impida el ingreso de plagas y permita la circulación de aire, de luz (esto si aplica), ya que en situaciones como #[strong cuartos fríos] se procura tener un ambiente completamente aislado de la luz solar con el ánimo de conservar el frío haciendo un uso energético eficiente e impedir el ingreso de plagas. 
 
 
       .py-3.py-md-4(titulo="Equipos")
@@ -90,8 +86,7 @@
               img(src='@/assets/curso/temas/tema2/img8.png', alt='Texto que describa la imagen')
               
           .col-md-5
-            h3 Equipos 
-            p.mt-5 This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.   
+            p.mt-5 Todos los equipos utilizados deben contar con las mejores prácticas de limpieza y desinfección como lo son estanterías, estibas y en caso de utilizar o demás que impidan la contaminación de los productos.
 
     separador
 
@@ -113,7 +108,7 @@
       p El almacenamiento de los productos posterior a su uso es fundamental para la prevención de algún tipo de contaminación en los alimentos. Es importante la identificación de las etiquetas para cambiar el producto químico utilizado durante el año.
     .row.justify-content-center.mt-5
       .col-11.col-lg-7
-        AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--amarilla")
+        AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="Elementos necesarios para la desinfección")
             .col-md-5
               figure
@@ -142,7 +137,7 @@
               p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Anteojos
               p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Cofia
 
-          .row(titulo="Productos Químicos")
+          .row(titulo="Productos químicos")
             .col-md-5
               figure
                 img(src='@/assets/curso/temas/tema2/img12.png', alt='Texto que describa la imagen')

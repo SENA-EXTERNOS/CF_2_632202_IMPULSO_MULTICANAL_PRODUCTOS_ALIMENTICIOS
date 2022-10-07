@@ -59,26 +59,26 @@
             img(src='@/assets/curso/temas/tema4/img5.png', alt='Texto que describa la imagen')
 
         .col-11.col-lg-8
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul2")
-            .row(titulo="Contaminado:")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+            .row(titulo="Contaminado")
               .col-12
                 p Producto, objeto o superficie que contiene microorganismos. 
                 h4.mt-4 Ejemplo: 
                 p paquete de arepas con hongo, tabla de cortar sin limpiar. 
             
-            .row(titulo="Limpio:")
+            .row(titulo="Limpio")
               .col-12
                 p Objeto o superficie que está libre de suciedad (materia orgánica o inorgánica).
                 h4.mt-4 Ejemplo:
                 p mesa después de ser limpiada con detergente.
 
-            .row(titulo="Desinfectado:")
+            .row(titulo="Desinfectado")
               .col-12
                 p Objeto o superficie al que se ha aplicado un agente químico físico o para la destrucción de diferentes tipos de microorganismos patógenos. (patógeno: es un microorganismo que genera una enfermedad o que es perjudicial para la salud).
                 h4.mt-4 Ejemplo:
                 p mesa de metal desinfectada con alcohol etílico. 
             
-            .row(titulo="Estéril:")
+            .row(titulo="Estéril")
               .col-12
                 p Objeto o superficie libre de toda clase de microorganismos. 
                 h4.mt-4 Ejemplo:
@@ -107,24 +107,24 @@
             img(src='@/assets/curso/temas/tema4/img7.png', alt='Texto que describa la imagen')
 
         .col-11.col-lg-9.mt-3
-          .tarjeta.color-acento-contenido--borde
+          .tarjeta.color-acento-contenido--borde.px-3
             .row.justify-content-center
               .col-8.col-lg-3
                 figure
-                  img(src='@/assets/curso/temas/tema4/img8.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema4/img8.png', alt='Texto que describa la imagen').img8-tema-4
               .col-11.col-lg-9
-                h3.mt-3 Reciclaje:
+                h3.mt-3 Reciclaje
                 p El reciclaje es un proceso mediante el cual se recuperan y aprovechan los desechos industriales, comerciales y domésticos en forma manual o mecánica.
                 p El concepto de reciclaje se ha venido reforzando desde dos direcciones complementarias: por un lado, las campañas que adelantan las Industrias interesadas en la recuperación de desechos como materia prima, por otro lado, las cooperativas asociativas de carácter social productivo en el sector del reciclaje que han aumentado el índice de los materiales recuperados. 
 
-          .tarjeta.color-acento-contenido--borde.mt-3
+          .tarjeta.color-acento-contenido--borde.mt-3.px-3
             .row.justify-content-center
               .col-8.col-lg-3
                 figure
-                  img(src='@/assets/curso/temas/tema4/img9.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema4/img9.png', alt='Texto que describa la imagen').img8-tema-4
               
               .col-11.col-lg-9
-                h3.mt-3 Ventajas del reciclaje:
+                h3.mt-3 Ventajas del reciclaje
                 p.mt-3 Reciclar es una estrategia que permite elaborar procesos productivos tendientes al ahorro de energía, materias primas y recursos naturales no renovables como el agua, la cual se desperdicia y contamina en diferentes procesos de fabricación.
                 p El reciclaje también favorece nuestros suelos, puesto que en el afán por desechar las basuras se entierran todos los residuos orgánicos e inorgánicos, ocupando 3 metros cúbicos de suelo por cada tonelada, dejando estos suelos inhabilitados para todo tipo de práctica agrícola.
     
@@ -135,7 +135,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img10.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 En Conclusión, el reciclaje aporta innumerables ventajas ambientales, disminución de costos de recolección y disposición final de los residuos sólidos de las ciudades, beneficios económicos y sociales, como ocurre por ejemplo en la ciudad de Bogotá, donde se formalizaron 60 de 428 organizaciones de población recicladora beneficiando a miles personas. (Parra, et al, 2021). 
+            p.mb-0 En conclusión, el reciclaje aporta innumerables ventajas ambientales, disminución de costos de recolección y disposición final de los residuos sólidos de las ciudades, beneficios económicos y sociales, como ocurre por ejemplo en la ciudad de Bogotá, donde se formalizaron 60 de 428 organizaciones de población recicladora beneficiando a miles personas. (Parra, et al, 2021). 
   
       .row.justify-content-center.mt-5
       .col-8.col-lg-2.mt-3
@@ -216,8 +216,8 @@
       SlyderA(tipo="b")
         .row
           .col-11.col-lg-5
-            h4.mt-4 lombricultivo
-            p Es un proceso donde la lombriz trabaja cavando galerías y engullendo partículas orgánicas como estiércol de cerdo, conejo, desperdicios de cocina, desechos de agricultura, desperdicios de plazas de mercado, etc.; estos elementos son ingeridos por la lombriz quien por su constitución intestinal los transforma para segregar un material en estado avanzado de descomposición, el cual se utiliza como abono orgánico y recibe el nombre de humus, este contiene nutrientes y elementos como nitratos, fosfatos, potasio, calcio y magnesio, los que son asimilados más fácil por las raíces de las plantas en especial en suelos que carecen de este tipo de elementos, mejorando la calidad del suelo y por ende la productividad en materia alimentaria (Molano. L, 1997)
+            h4.mt-4 Lombricultivo
+            p Es un proceso donde la lombriz trabaja cavando galerías y engullendo partículas orgánicas como estiércol de cerdo, conejo, desperdicios de cocina, desechos de agricultura, desperdicios de plazas de mercado, etc.; estos elementos son ingeridos por la lombriz quien por su constitución intestinal los transforma para segregar un material en estado avanzado de descomposición, el cual se utiliza como abono orgánico y recibe el nombre de #[strong humus], este contiene nutrientes y elementos como nitratos, fosfatos, potasio, calcio y magnesio, los que son asimilados más fácil por las raíces de las plantas en especial en suelos que carecen de este tipo de elementos, mejorando la calidad del suelo y por ende la productividad en materia alimentaria (Molano. L, 1997).
 
           .col-10.col-lg-7
             figure
@@ -226,8 +226,8 @@
 
         .row
           .col-11.col-lg-5
-            h4.mt-4 Compostaje: 
-            p El compostaje consiste en generar abono orgánico a través de la transformación de desechos o materias primas, mediante la exposición al ambiente y al paso del tiempo. Es fundamental el tamaño de los residuos, por lo que elementos como papel, cáscaras o residuos de cocina deben estar finamente picados para que se acelere el proceso de descomposición, se sugiere que estos se encuentren entre 1 y 10 cm. Similar a lo que ocurre con el proceso de lombricultivo se obtiene un abono orgánico rico en nutrientes, el cual va a ser utilizado posteriormente para procesos de Cultivo agrícola.
+            h4.mt-4 Compostaje 
+            p El compostaje consiste en generar abono orgánico a través de la transformación de desechos o materias primas, mediante la exposición al ambiente y al paso del tiempo. Es fundamental el tamaño de los residuos, por lo que elementos como papel, cáscaras o residuos de cocina deben estar finamente picados para que se acelere el proceso de descomposición, se sugiere que estos se encuentren entre 1 y 10 cm. Similar a lo que ocurre con el proceso de lombricultivo se obtiene un abono orgánico rico en nutrientes, el cual va a ser utilizado posteriormente para procesos de cultivo agrícola.
 
           .col-10.col-lg-7
             figure
@@ -309,27 +309,27 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema4/img35.png", alt="alt")
-          .crd_hover_txt--body
-            h4.mb-3 Residuos sólidos no peligrosos: 
-            p.mb-0 Se generan por la operación normal de las salas de procesos, por el funcionamiento del casino, mermas en la producción, residuos de carácter reciclable o reutilizable como cartón, madera o plástico, por lo tanto, estos residuos son similares a los generados en una residencia.
+          .crd_hover_txt--body.px-5
+            h4.mb-3 Residuos sólidos no peligrosos
+            p.mb-5 Se generan por la operación normal de las salas de procesos, por el funcionamiento del casino, mermas en la producción, residuos de carácter reciclable o reutilizable como cartón, madera o plástico, por lo tanto, estos residuos son similares a los generados en una residencia.
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema4/img36.png", alt="alt")
-          .crd_hover_txt--body
-            h4.mb-3 Residuos sólidos peligrosos:
-            p.mb-0 Se originan en procesos donde se tiene aerosoles, detergentes, tubos fluorescentes, pilas en desuso, envases de cloro, entre otros, con al menos una característica de peligrosidad como inflamables, corrosivo, tóxico y oxidante. 
+          .crd_hover_txt--body.px-5
+            h4.mb-3 Residuos sólidos peligrosos
+            p.mb-5 Se originan en procesos donde se tiene aerosoles, detergentes, tubos fluorescentes, pilas en desuso, envases de cloro, entre otros, con al menos una característica de peligrosidad como inflamables, corrosivo, tóxico y oxidante. 
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema4/img37.png", alt="alt")
-          .crd_hover_txt--body
-            h4.mb-3 Residuos industriales líquidos:
-            p.mb-0 Se generan en baños, duchas, así como por el funcionamiento normal de las salas de proceso, limpiezas de equipos, instalaciones, manutención. Estas aguas contienen detergentes desinfectantes, así como restos de desechos orgánicos, grasas y aceites.    
+          .crd_hover_txt--body.px-5
+            h4.mb-3 Residuos industriales líquidos
+            p.mb-5 Se generan en baños, duchas, así como por el funcionamiento normal de las salas de proceso, limpiezas de equipos, instalaciones, manutención. Estas aguas contienen detergentes desinfectantes, así como restos de desechos orgánicos, grasas y aceites.    
 
 
 
@@ -351,5 +351,4 @@ export default {
   },
 }
 </script>
-
 <style lang="sass"></style>

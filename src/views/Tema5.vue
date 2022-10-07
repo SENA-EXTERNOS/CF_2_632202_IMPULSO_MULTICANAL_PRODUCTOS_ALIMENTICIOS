@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Titulo de primer nivel
+      h1 Normatividad de SST
 
     .row.justify-content-center.mt-5
       .col-11.col-lg-7
@@ -107,7 +107,7 @@
 
     .row.justify-content-center.mt-5
       .col-11.col-lg-8.mb-3
-        LineaTiempoD.color-secundario
+        LineaTiempoD
           .row(numero="1" titulo="Señalizar: ")
             p al momento de realizar un proceso de desinfección o aseo importante, es imperativo marcar el área con el fin de evitar algún tipo de caída a nivel, contacto con algún químico u otro tipo de accidente que se pueda presentar.
           
