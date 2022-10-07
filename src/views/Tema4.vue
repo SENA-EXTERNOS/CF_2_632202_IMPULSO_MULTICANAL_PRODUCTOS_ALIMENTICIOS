@@ -59,7 +59,7 @@
             img(src='@/assets/curso/temas/tema4/img5.png', alt='Texto que describa la imagen')
 
         .col-11.col-lg-8
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+          AcordionA.acordion-tema4(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
             .row(titulo="Contaminado")
               .col-12
                 p Producto, objeto o superficie que contiene microorganismos. 
