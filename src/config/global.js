@@ -217,7 +217,8 @@ export default {
   complementario: [
     {
       tema: 'Seguridad y salud en el trabajo',
-      referencia: 'Ruiz, M. (2016). La seguridad laboral en un hipermercado',
+      referencia:
+        'Ruiz, M. (2016). <em>La seguridad laboral en un hipermercado</em>',
       tipo: 'Tesis',
       link:
         'https://drive.google.com/file/d/1Xwh8Y_5tYPIlBkzxv9hIKdesWgoimwv4/view?usp=sharing',
@@ -225,7 +226,7 @@ export default {
     {
       tema: 'Tipos de almacenamiento',
       referencia:
-        'Ramírez, N. (2010). Estandarización y control de calidad en procesos de recibo, almacenamiento, distribución y servida de alimentos.',
+        'Ramírez, N. (2010). <em>Estandarización y control de calidad en procesos de recibo, almacenamiento, distribución y servida de alimentos.</em>',
       tipo: 'Tesis',
       link:
         'https://drive.google.com/file/d/1w_Vg9N8Ml9VcTPCBV9tbKVuJQapDOIoD/view?usp=sharing',
@@ -291,26 +292,26 @@ export default {
   referencias: [
     {
       referencia:
-        'Díaz, A. & Uría, R. (2009). Buenas prácticas de manufactura: una guía para pequeños y medianos agroempresarios, (No. IICA Q03-14). Editorial IICA',
+        'Díaz, A. & Uría, R. (2009). <em>Buenas prácticas de manufactura: una guía para pequeños y medianos agroempresarios</em>, (No. IICA Q03-14). Editorial IICA',
       link: '',
     },
     {
       referencia:
-        'Garcia, A. & Uribe M. (2005). Limpieza y desinfección de superficies. Editorial SENA',
+        'Garcia, A. & Uribe M. (2005). <em>Limpieza y desinfección de superficies</em>. Editorial SENA',
       link: '',
     },
     {
       referencia:
-        'Molano, L. (1997). Alternativas de Vida, Compostaje y reciclaje. Editorial SENA',
+        'Molano, L. (1997). <em>Alternativas de Vida, Compostaje y reciclaje</em>. Editorial SENA',
       link: '',
     },
     {
       referencia:
-        'Parra, F. y Abizaid, O. (2021). “La formalización de la población recicladora en Colombia como prestadora del servicio público de reciclaje. Logros, oportunidades, restricciones y amenazas. Nota técnica de WIEGO n.º 12. Manchester, Reino Unido: WIEGO',
+        'Parra, F. y Abizaid, O. (2021). “<em>La formalización de la población recicladora en Colombia como prestadora del servicio público de reciclaje. Logros, oportunidades, restricciones y amenazas</em>. Nota técnica de WIEGO n.º 12. Manchester, Reino Unido: WIEGO',
       link: '',
     },
     {
-      referencia: 'Safetya. (2015).',
+      referencia: 'Safetya. (2015). <em>Todo sobre el SG-SST.</em>',
       link: 'https://safetya.co/todo-sobre-el-sg-sst/ ',
     },
   ],
