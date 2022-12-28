@@ -111,12 +111,6 @@ export default {
             titulo: 'Vehículos utilizados',
             hash: 't_3_2',
           },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Puntos de venta',
-            hash: 't_3_3',
-          },
         ],
       },
       {

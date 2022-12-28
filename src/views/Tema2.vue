@@ -117,13 +117,13 @@
 
             .col-md-7.mb-4.mb-md-0
               p Al momento de realizar el proceso de desinfección es importante contar con todos los elementos para el adecuado proceso, entre los que están:
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Cepillo eléctrico
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Escurridor
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Mangueras
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Escobas
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Cepillos
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Paños de limpieza
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Atomizador
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Cepillo eléctrico.
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Escurridor.
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Mangueras.
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Escobas.
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Cepillos.
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Paños de limpieza.
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Atomizador.
           
           .row(titulo="Equipo de protección especial")
             .col-md-5
@@ -131,12 +131,12 @@
                 img(src='@/assets/curso/temas/tema2/img11.png', alt='Texto que describa la imagen')
 
             .col-md-7.mb-4.mb-md-0
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Botas de hule
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Guantes de hule
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Peto
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Mascarilla
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Anteojos
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Cofia
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Botas de hule.
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Guantes de hule.
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Peto.
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Mascarilla.
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Anteojos.
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Cofia.
 
           .row(titulo="Productos químicos")
             .col-md-5
@@ -144,9 +144,9 @@
                 img(src='@/assets/curso/temas/tema2/img12.png', alt='Texto que describa la imagen')
 
             .col-md-7.mb-4.mb-md-0
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Detergente líquido biodegradable
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Desinfectantes que puede ser a base de cloro o amonio cuaternario
-              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Desengrasante biodegradable
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Detergente líquido biodegradable.
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Desinfectantes que puede ser a base de cloro o amonio cuaternario.
+              p <i class="fas fa-angle-right" STYLE="Color: orange"></i> Desengrasante biodegradable.
 
 
       .col-10.col-lg-5.d-none.d-md-block
