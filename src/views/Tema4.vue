@@ -39,7 +39,7 @@
 
     .row.mt-5
       p Para evitar la contaminación cruzada es necesario aplicar la técnica de asepsia que, a continuación, se define. 
-      b.mt-3 Técnica aséptica
+      h3.mt-3 Técnica aséptica
 
     .row.justify-content-center.mt-5.mb-4
       .col-8.col-lg-2.mt-4.mb-3
@@ -99,7 +99,7 @@
         figure
           img(src='@/assets/curso/temas/tema4/img6.png', alt='Texto que describa la imagen').img-animacion9
       .col-11.col-lg-10
-        p.mt-4 Durante todos los procesos alimenticios se generan residuos o desechos, los cuales se deben disponer de manera segura, porque muchos de ellos pueden ser aprovechados.
+        p.mt-4 La separación de alimentos es fundamental, pues pueden ser desechos algunos, pero muchos pueden ser aprovechables nuevamente.
 
       .row.justify-content-center.mt-5
         .col-6.col-lg-3
@@ -142,8 +142,13 @@
         figure
           img(src='@/assets/curso/temas/tema4/img1.png', alt='Texto que describa la imagen')
           
-        figure
-          img(src='@/assets/curso/temas/tema4/img2.png', alt='Texto que describa la imagen').img-animacion10
+        
+    .row.mt-3
+      h3 Materiales reciclables
+      
+      .col-11.col-lg-1
+        figure.mt-5
+          img(src='@/assets/curso/temas/tema4/img2.png', alt='Texto que describa la imagen')
       .col-11.col-lg-10
         p.mt-3 Al momento de hablar de reciclaje se cree que los materiales recuperables son de tipo inorgánico como el vidrio, plástico y metales, entre otros, sin embargo, se encuentran los de tipo orgánico, los cuales se pueden aprovechar y transformar por ejemplo en abonos orgánicos.
         p En el reciclaje a través de los colores se puede diferenciar el tipo de material a reciclar, los cuales se nombran y definen a continuación:
@@ -310,8 +315,8 @@
             figure
               img(src="@/assets/curso/temas/tema4/img35.png", alt="alt")
           .crd_hover_txt--body.px-5
-            h4.mb-3 Residuos sólidos no peligrosos
-            p.mb-5 Se generan por la operación normal de las salas de procesos, por el funcionamiento del casino, mermas en la producción, residuos de carácter reciclable o reutilizable como cartón, madera o plástico, por lo tanto, estos residuos son similares a los generados en una residencia.
+            h4.mb-3.text-center Residuos sólidos no peligrosos
+            p.mb-5.text-center Se generan por la operación normal de las salas de procesos, por el funcionamiento del casino, mermas en la producción, residuos de carácter reciclable o reutilizable como cartón, madera o plástico, por lo tanto, estos residuos son similares a los generados en una residencia.
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -319,8 +324,8 @@
             figure
               img(src="@/assets/curso/temas/tema4/img36.png", alt="alt")
           .crd_hover_txt--body.px-5
-            h4.mb-3 Residuos sólidos peligrosos
-            p.mb-5 Se originan en procesos donde se tiene aerosoles, detergentes, tubos fluorescentes, pilas en desuso, envases de cloro, entre otros, con al menos una característica de peligrosidad como inflamables, corrosivo, tóxico y oxidante. 
+            h4.mb-3.text-center Residuos sólidos peligrosos
+            p.mb-5.text-center Se originan en procesos donde se tiene aerosoles, detergentes, tubos fluorescentes, pilas en desuso, envases de cloro, entre otros, con al menos una característica de peligrosidad como inflamables, corrosivo, tóxico y oxidante. 
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -328,8 +333,8 @@
             figure
               img(src="@/assets/curso/temas/tema4/img37.png", alt="alt")
           .crd_hover_txt--body.px-5
-            h4.mb-3 Residuos industriales líquidos
-            p.mb-5 Se generan en baños, duchas, así como por el funcionamiento normal de las salas de proceso, limpiezas de equipos, instalaciones, manutención. Estas aguas contienen detergentes desinfectantes, así como restos de desechos orgánicos, grasas y aceites.    
+            h4.mb-3.text-center Residuos industriales líquidos
+            p.mb-5.text-center Se generan en baños, duchas, así como por el funcionamiento normal de las salas de proceso, limpiezas de equipos, instalaciones, manutención. Estas aguas contienen detergentes desinfectantes, así como restos de desechos orgánicos, grasas y aceites.    
 
 
 

@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Cadena de suministro de alimentos',
     descripcionCurso:
-      'El sector de alimentos comprende diferentes etapas cómo la producción, la transformación en el sector industrial, el transporte, que juega un papel fundamental en la conservación de alimentos y finalmente la comercialización, donde se destacan diferentes elementos como la exhibición y rotación adecuada de los productos, haciendo uso eficiente de los diferentes canales hasta llegar al cliente final.',
+      'El sector de alimentos, comprende diferentes etapas cómo la producción, la transformación en el sector industrial, el transporte, que juegan un papel fundamental en su conservación y finalmente la comercialización, donde se destacan diferentes elementos como la exhibición y rotación adecuada de los productos, haciendo uso eficiente de los diferentes canales hasta llegar al cliente final.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -89,12 +89,6 @@ export default {
             numero: '2.2',
             titulo: 'Proceso de desinfección',
             hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Manejo de plagas',
-            hash: 't_2_3',
           },
         ],
       },

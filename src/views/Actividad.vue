@@ -10,9 +10,12 @@
             img(src="@/assets/template/arrastrar-soltar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
-          h2 Arrastrar y soltar
+          h2 Cadena de suministro de alimentos
 
-        p.mb-4 Esta es una actividad de “Arrastrar y Soltar, donde encontrará 2 columnas, una de ellas entrega los posibles conceptos y la otra presenta las definiciones vistas a lo largo del componente. Asocie las definiciones con los conceptos correspondientes. Se debe seleccionar una columna, arrastrar y soltar la respuesta relacionada con las definiciones dadas en la siguiente columna.
+        p.mb-4 Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
+
+        P De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
+        
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

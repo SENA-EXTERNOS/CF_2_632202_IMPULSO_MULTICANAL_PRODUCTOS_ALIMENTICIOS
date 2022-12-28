@@ -16,7 +16,7 @@
           img(src='@/assets/curso/temas/tema2/img2.png', alt='Texto que describa la imagen').img-animacion3
 
       .col-11.col-lg-10.mt-3
-        p Al momento de manipular alimentos se deben tener en cuenta las diferentes técnicas de limpieza y desinfección para evitar la contaminación de los productos y su deterioro, que puede desencadenar en enfermedades, propagación de microorganismos y todo esto en pérdidas para la compañía. El segundo tema de estudio se describe el proceso de limpieza estructural, proceso de desinfección y manejo de plagas.
+        p Las técnicas de limpieza y desinfección, son de gran valor para evitar la contaminación de los productos y su deterioro, que puede desencadenar en enfermedades, propagación de microorganismos y todo esto en pérdidas para la compañía. El segundo tema de estudio se describe el proceso de limpieza estructural, proceso de desinfección y manejo de plagas.
 
     separador
 
@@ -102,10 +102,11 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img9.png')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p La desinfección es un proceso que se realiza posterior a la limpieza, para eliminar todo tipo de microorganismos o bacterias que pudiesen haber quedado luego de realizar el proceso de limpieza. Se hace una eliminación visible de suciedad, normalmente este proceso se realiza con productos químicos como por ejemplo hipoclorito, dióxido de cloro o sales cuaternarias de amonio.
+              p La desinfección es un proceso que se realiza posterior a la limpieza, para eliminar todo tipo de microorganismos o bacterias que pudiesen haber quedado luego de realizar el proceso de limpieza. Se hace una eliminación visible de suciedad, normalmente este proceso se realiza con productos químicos como por ejemplo hipoclorito, dióxido de cloro o sales cuaternarias de amonio. 
 
     .row.mt-5
-      p El almacenamiento de los productos posterior a su uso es fundamental para la prevención de algún tipo de contaminación en los alimentos. Es importante la identificación de las etiquetas para cambiar el producto químico utilizado durante el año.
+      p El almacenamiento de los productos posterior a su uso, es fundamental para la prevención de algún tipo de contaminación en los alimentos. Es importante la identificación de las etiquetas para cambiar el producto químico utilizado durante el año.
+
     .row.justify-content-center.mt-5
       .col-11.col-lg-7
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
@@ -153,7 +154,8 @@
           img(src='@/assets/curso/temas/tema2/img13.png', alt='Texto que describa la imagen').img-animacion5
 
     .row.mt-5
-      h4 Ejemplo de proceso de limpieza para un cuarto frío
+      h3 Ejemplo de proceso de limpieza para un cuarto frío
+
       p.mt-4 Para comprender el proceso se muestra un ejemplo del proceso de limpieza y desinfección de un cuarto frío.
 
 
@@ -182,7 +184,7 @@
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img16.png')})`}")
             .tarjeta-slide__contenido
               figure
-                img(src='@/assets/curso/temas/tema2/img28.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/img28.svg', alt='Texto que describa la imagen')
 
       .col-10.col-lg-3.mt-4
         .tarjeta.tarjeta-slide.abajo.color-acento-contenido(@mouseover="indicadorTarjetaSlide = false")
@@ -190,7 +192,7 @@
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img17.png')})`}")
             .tarjeta-slide__contenido
               figure
-                img(src='@/assets/curso/temas/tema2/img29.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/img29.svg', alt='Texto que describa la imagen')
 
     .row.mt-4.justify-content-center
       .col-10.col-lg-3.mt-4
@@ -256,14 +258,12 @@
     separador
 
 
-    #t_2_3
-
-    .titulo-segundo.color-acento-contenido.mt-5
-      h2 2.3  Manejo de plagas
+    .row.mt-5
+      h3 Manejo de plagas
 
     .row.mt-5.justify-content-center
       .col-11.col-lg-7
-        p En lugares donde permanezcan alimentos es inevitable tener presente las plagas que puedan alterar el producto. Es muy importante realizar las buenas prácticas de limpieza y desinfección tanto en las bodegas o almacenes, así como en los puntos de expendio o exhibición. Se debe realizar la vigilancia y control de todo tipo de productos o elementos que ingresen al establecimiento, verificar fechas de caducidad, realizar la rotación adecuada, velar por el buen estado de las instalaciones y contar con todas las normas vigentes y elementos de seguridad para evitar la propagación de plagas.
+        p Las plagas, pueden se pueden presentar donde hayan alimentos y puedan alterar el producto. Es muy importante realizar las buenas prácticas de limpieza y desinfección tanto en las bodegas o almacenes, así como en los puntos de expendio o exhibición. Se debe realizar la vigilancia y control de todo tipo de productos o elementos que ingresen al establecimiento, verificar fechas de caducidad, realizar la rotación adecuada, velar por el buen estado de las instalaciones y contar con todas las normas vigentes y elementos de seguridad para evitar la propagación de plagas.
 
       .col-11.col-lg-5
          figure

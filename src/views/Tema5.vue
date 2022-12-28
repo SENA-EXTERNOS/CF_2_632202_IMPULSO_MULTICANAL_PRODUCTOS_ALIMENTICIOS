@@ -10,8 +10,8 @@
     .row.justify-content-center.mt-5
       .col-11.col-lg-7
         .cajon.color-acento-botones.p-4
-          p El Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG SST) históricamente ha estado evolucionando y reformándose por medio de normativas y decretos que van reglamentando obligatoriedad de su cumplimiento. Este inició con los programas de salud ocupacional, los cuales consistían en la planeación y ejecución de actividades de medicina, seguridad e higiene industrial con el objetivo de mantener y mejorar la salud de los trabajadores.
-        p.mt-3 Para finalizar este componente formativo, se hace una recopilación del cumplimiento de la norma que regula la SG SST, descripción de los elementos de protección que debe utilizar el trabajador y las medidas de prevención asociadas. 
+          p Es una actividad que involucra todos los niveles de la sociedad y disciplinas laborales, se enfoca en proteger y promover beneficios en la salud física, mental y emocional de los trabajadores mediante actividades de prevención de accidentes y enfermedades laborales. 
+        p.mt-3 En el año 2012 fue necesaria la actualización de la normativa colombiana, lo que dio lugar a la Ley 1562 de 2012, cuyo principal aporte consistió en reemplazar el Programa de Salud Ocupacional, por el Sistema de Gestión de la Seguridad y la Salud en el Trabajo SG SST. La reglamentación de esta ley llegó dos años después, con el Decreto 1443 de 2014, el cual constituye un manual para implementar el SG SST en todas las organizaciones. (Safetya, 2015) 
 
       .col-10.col-lg-5
         figure
@@ -133,9 +133,8 @@
         figure
           img(src='@/assets/curso/temas/tema5/img15.png', alt='Texto que describa la imagen').img-tema5
 
-      p.mt-4 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo, para ello diríjase al menú principal en donde encontrará la síntesis, una actividad didáctica, material complementario, entre otros
-
-
+      p.mt-4 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+      
 </template>
 
 <script>

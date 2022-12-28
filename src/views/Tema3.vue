@@ -27,7 +27,7 @@
       h2 3.1  Importancia de la cadena de frío
 
     .row.mt-5
-      p Para conocer porqué es importante mantener la cadena de frío, ver el siguiente vídeo. 
+      p La aplicación de frío es uno de los sistemas de conservación de alimentos más importantes y más antiguos que se conoce. Esto se debe a que #[b el frío impide que procesos como la alteración metabólica de proteínas y otras reacciones degraden los alimentos.]
 
     .row.mt-3
       figure
@@ -45,7 +45,7 @@
       h2 3.2  Vehículos utilizados
 
     .row.mt-5
-      p Con el fin de garantizar la temperatura óptima de los productos y la calidad de los alimentos se debe utilizar un vehículo especializado, entre los siguientes:
+      p Los vehículos que se utilizan, son aliados fundamentales para una temperatura óptima de los productos y la calidad de los alimentos, se pueden ver los siguientes:
 
     TabsA.color-primario.mt-3
       .tarjeta.color-primario--borde.p-4(titulo="Vehículos isotérmicos:")
@@ -82,21 +82,20 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Tipos de vehículo
-                  p Para conocer la lista de vehículos utilizados para transporte de alimentos con su respectiva capacidad, explorar el siguiente documento.  
+                  p Para ampliar información acerca de tipos de vehículos, se puede hacer exploración en el siguiente documento.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Tipos_de_vehículos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
-    #t_3_3
-
-    .titulo-segundo.color-acento-contenido.mt-5
-      h2 3.3  Puntos de venta
+    .row.mt-5
+      h3 Puntos de venta
 
     .row.justify-content-center.mt-5
       .col-11.col-lg-8
         .cajon.color-acento-botones.p-4
-          p Cuando los productos finalmente llegan al punto de venta pueden almacenarse o exhibirse dependiendo del tipo de producto y las dimensiones del lugar de venta. Pueden llegar a un cuarto frigorífico, cuarto frío o directamente a los congeladores y cámaras refrigeradas para la exhibición del producto. Es fundamental el uso de los equipos y contenedores como estibas, contenedores, es decir, el embalaje debe ser el adecuado y garantizar la circulación de aire.     
+          p Dependiendo el destino de producto, los puntos de venta cumplen la función para almacenar o exhibirs, dependiendo del tipo de producto y las dimensiones del lugar de venta. Pueden llegar a un cuarto frigorífico, cuarto frío o directamente a los congeladores y cámaras refrigeradas para la exhibición del producto. Es fundamental el uso de los equipos y contenedores como estibas, contenedores, es decir, el embalaje debe ser el adecuado y garantizar la circulación de aire. 
+
         p.mt-3 Entre las cámaras de exposición o exhibición se tienen diferentes tipos, pueden tener puertas o no, pero siempre procurando conservar una temperatura ideal hasta que el cliente o consumidor final tome el producto y se encargue de llevarlo en el menor tiempo posible hasta su hogar, donde finalmente será consumido. 
 
       .col-10.col-lg-4.mt-3

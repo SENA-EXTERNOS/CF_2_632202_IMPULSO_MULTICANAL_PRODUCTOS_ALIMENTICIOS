@@ -20,8 +20,8 @@
     
     .row.mt-5.justify-content-center
       .col-11.col-lg-7
-        p Al momento de almacenar alimentos es importante clasificar si son ‘perecederos o no perecederos’. Son dos tipos de almacenamiento donde se encuentran aquellos productos que requieren climatización, es decir, una temperatura específica que permita conservar las propiedades organolépticas. Es aquí donde juega un papel fundamental el control de la temperatura y es importante reconocer los conceptos de ‘refrigeración y congelación’. Estos procedimientos permiten conservar los alimentos cómo las verduras y carnes que deben estar a una temperatura específica para evitar brotes de infección o enfermedad por algún microorganismo; también existen productos que no requieren este tipo de ambiente cómo los productos secos, por ejemplo, los granos de maíz, frijol, garbanzo, lenteja pequeña, azúcar, entre otros. Si estos tipos de productos sufren algún tipo de contaminación o deterioro es por el mal manejo o la rotación de estos, de ese modo es fundamental revisar las fechas de caducidad y algún tipo de vector que pueda deteriorar el producto en el proceso de almacenamiento y comercialización.
-      
+        p Se debe tener en cuenta que, al momento de almacenar alimentos, es importante clasificar si son ‘perecederos o no perecederos’. En esta clasificación se encuentran los productos que requieren climatización, es decir, una temperatura específica que permita conservar las propiedades organolépticas. Es aquí donde juega un papel fundamental el control de la temperatura y es importante reconocer los conceptos de ‘refrigeración y congelación’. Estos procedimientos permiten conservar los alimentos cómo las verduras y carnes que deben estar a una temperatura específica para evitar brotes de infección o enfermedad por algún microorganismo; se debe tener en cuenta que también existen productos que no requieren este tipo de ambiente cómo los productos secos, por ejemplo, los granos de maíz, frijol, garbanzo, lenteja pequeña, azúcar, entre otros. Si estos tipos de productos sufren algún tipo de contaminación o deterioro es por el mal manejo o la rotación de estos, de ese modo es fundamental revisar las fechas de caducidad y algún tipo de vector que pueda deteriorar el producto en el proceso de almacenamiento y comercialización.  
+
       .col-11.col-lg-5
         figure
           img(src='@/assets/curso/temas/tema1/img3.png', alt='Texto que describa la imagen')
@@ -51,7 +51,7 @@
       .py-4.py-md-5(titulo="Congelación" :icono="require('@/assets/curso/temas/tema1/img5.png')")
         .row.justify-content-center
           .col-11.col-lg-7
-            p.mt-3 Este proceso se refiere al almacenamiento de productos con una temperatura inferior a los 30 grados Celsius y es importante mantener esta temperatura o una similar durante todo el proceso de transporte y de exhibición del producto. Se deben contemplar tiempos de congelación, ya que mantener productos alimenticios durante largos periodos de tiempo conlleva a la pérdida de vitaminas y propiedades.
+            p.mt-3 Este proceso se refiere al almacenamiento de productos en su punto de fusión y depende del tipo de alimento, es importante mantener está temperatura o una similar durante todo el proceso de transporte y de exhibición del producto. Se deben contemplar tiempos de congelación, ya que mantener productos alimenticios durante largos periodos de tiempo conlleva a la pérdida de vitaminas y propiedades.
             p.mt-3 Es fundamental hacer recomendaciones de la correcta manipulación de los alimentos al cliente final, es decir, después de generar la entrega por parte del distribuidor al consumidor. Se deben consumir los productos en el menor tiempo posible, ya que se perdió la cadena de frío.
             p.mt-3 Un ejemplo de almacenamiento en congelación es dónde se almacenan productos como carnes de res, pollo, cerdo, pescado, entre otros.
         
@@ -126,14 +126,17 @@
           img(src='@/assets/curso/temas/tema1/img11.png', alt='Texto que describa la imagen')
 
       .col-11.col-lg-7
-        p Al momento de conservar alimentos es fundamental determinar la cantidad de agua que estos tienen, ya que de esto depende el tipo de conservación que se realizará, tal cómo se presenta en el proceso de congelación y refrigeración, esto determina el punto óptimo al cual se debe conservar un alimento para que no pierda sus propiedades. 
+        p Se debe tener en cuenta que al momento de conservar los alimentos, es fundamental determinar la cantidad de agua que estos tienen, ya que, esto depende el tipo de conservación que se realizará, tal cómo se presenta en el proceso de congelación y refrigeración,, determina el punto óptimo al cual se debe conservar un alimento para que no pierda sus propiedades. 
+
         .cajon.color-cajon1.p-3
-          p Para el almacenamiento en seco, los alimentos que lo conforman son los que tienen un #[strong nivel de agua relativamente bajo.] Por esto precisamente desde la producción se someten a diferentes técnicas para eliminar la cantidad de agua que tengan, por ejemplo, secarlos por completo en silos o aumentar los tiempos de exposición al sol, y así garantizar que no se presenten microorganismos o reproducción de bacterias que puedan alterar los alimentos.
+          p Cuando se habla de almacenamiento en seco, se refiere que los alimentos que lo conforman son los que tienen un #[b nivel de agua relativamente bajo]. Por esto precisamente desde la producción se someten a diferentes técnicas para eliminar la cantidad de agua que tengan, por ejemplo, secarlos por completo en silos o aumentar los tiempos de exposición al sol, y así garantizar que no se presenten microorganismos o reproducción de bacterias que puedan alterar los alimentos. 
 
     .row.my-5
-      p A continuación, se hace una descripción general de las técnicas de limpieza y desinfección, los procesos que se deben realizar asociados a la higiene en los lugares y equipos que tengan contacto con alimentos, además del manejo de plagas. 
+      p Es así como se debe tener en cuenta las técnicas de limpieza y desinfección, los procesos que se deben realizar asociados a la higiene en los lugares y equipos que tengan contacto con alimentos, además del manejo de plagas. Así que ampliemos la información:
+
     .row
-      P En el siguiente gráfico se presenta un comparativo entre almacenamiento en seco y el de temperatura controlada, explorar haciendo clic en cada imagen. 
+      P Visualicemos un comparativo entre almacenamiento en seco y el de temperatura controlada, explorar haciendo clic en cada imagen. 
+
     .row.justify-content-center.mt-3
       H2.text-center Tipos de Almacenamiento
 
@@ -166,7 +169,7 @@
 
     
     .row.mt-5
-      p Explorar las pestañas para conocer las técnicas de almacenamiento en seco.
+      p Así mismo, se describen las técnicas de almacenamiento en seco.
 
     TabsA.color-primario.mt-5
       .tarjeta.color-primario--borde.p-4(titulo="Almacenamiento en sacos")
