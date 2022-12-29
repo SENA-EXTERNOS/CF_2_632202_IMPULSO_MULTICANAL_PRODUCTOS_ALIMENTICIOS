@@ -181,7 +181,7 @@
       .col-10.col-lg-3.mt-4
         .tarjeta.tarjeta-slide.abajo.color-acento-contenido(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img16.png')})`}")
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img17.png')})`}")
             .tarjeta-slide__contenido
               figure
                 img(src='@/assets/curso/temas/tema2/img28.svg', alt='Texto que describa la imagen')
@@ -189,7 +189,7 @@
       .col-10.col-lg-3.mt-4
         .tarjeta.tarjeta-slide.abajo.color-acento-contenido(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img17.png')})`}")
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img16.png')})`}")
             .tarjeta-slide__contenido
               figure
                 img(src='@/assets/curso/temas/tema2/img29.svg', alt='Texto que describa la imagen')
