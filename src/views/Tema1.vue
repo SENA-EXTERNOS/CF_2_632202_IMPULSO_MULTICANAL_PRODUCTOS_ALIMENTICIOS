@@ -126,7 +126,7 @@
           img(src='@/assets/curso/temas/tema1/img11.png', alt='Texto que describa la imagen')
 
       .col-11.col-lg-7
-        p Se debe tener en cuenta que al momento de conservar los alimentos, es fundamental determinar la cantidad de agua que estos tienen, ya que, esto depende el tipo de conservación que se realizará, tal cómo se presenta en el proceso de congelación y refrigeración,, determina el punto óptimo al cual se debe conservar un alimento para que no pierda sus propiedades. 
+        p Se debe tener en cuenta que al momento de conservar los alimentos, es fundamental determinar la cantidad de agua que estos tienen, ya que, esto depende el tipo de conservación que se realizará, tal cómo se presenta en el proceso de congelación y refrigeración, determina el punto óptimo al cual se debe conservar un alimento para que no pierda sus propiedades. 
 
         .cajon.color-cajon1.p-3
           p Cuando se habla de almacenamiento en seco, se refiere que los alimentos que lo conforman son los que tienen un #[b nivel de agua relativamente bajo]. Por esto precisamente desde la producción se someten a diferentes técnicas para eliminar la cantidad de agua que tengan, por ejemplo, secarlos por completo en silos o aumentar los tiempos de exposición al sol, y así garantizar que no se presenten microorganismos o reproducción de bacterias que puedan alterar los alimentos. 
@@ -188,7 +188,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img13.png', alt='Texto que describa la imagen')
 
-      .tarjeta.color-primario--borde.p-4(titulo="Disposición de los productos")
+      .tarjeta.color-primario--borde.p-4(titulo="Disposición de los <br>productos")
         .row.justify-content-center
           .col-10.col-lg-7
             p Sin importar el tipo de almacenamiento, ya sea con control de temperatura o almacenamiento en seco, es indispensable realizar una disposición de los productos de forma adecuada, conservando unas distancias para la circulación del aire, así como distancias mínimas de seguridad para circulación de los empleados encargados de la manipulación de los alimentos o de los equipos utilizados para realizar la rotación de estos.

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Separación de desechos
+      h1 Clasificación de residuos
 
     .row.justify-content-center.mt-5.mb-5
       .col-8.col-lg-2.mb-3

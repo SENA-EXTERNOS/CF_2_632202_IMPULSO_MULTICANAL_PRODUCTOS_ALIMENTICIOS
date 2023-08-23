@@ -117,7 +117,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Separación de desechos',
+        titulo: 'Clasificación de residuos',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -214,16 +214,14 @@ export default {
       referencia:
         'Ruiz, M. (2016). <em>La seguridad laboral en un hipermercado</em>',
       tipo: 'Tesis',
-      link:
-        'https://drive.google.com/file/d/1Xwh8Y_5tYPIlBkzxv9hIKdesWgoimwv4/view?usp=sharing',
+      descarga: '/downloads/anexo1.pdf',
     },
     {
       tema: 'Tipos de almacenamiento',
       referencia:
         'Ramírez, N. (2010). <em>Estandarización y control de calidad en procesos de recibo, almacenamiento, distribución y servida de alimentos.</em>',
       tipo: 'Tesis',
-      link:
-        'https://drive.google.com/file/d/1w_Vg9N8Ml9VcTPCBV9tbKVuJQapDOIoD/view?usp=sharing',
+      link: '/downloads/anexo2.pdf',
     },
   ],
   glosario: [

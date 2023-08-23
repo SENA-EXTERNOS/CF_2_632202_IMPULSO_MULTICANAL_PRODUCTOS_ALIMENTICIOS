@@ -94,7 +94,7 @@
     .row.justify-content-center.mt-5
       .col-11.col-lg-8
         .cajon.color-acento-botones.p-4
-          p Dependiendo el destino de producto, los puntos de venta cumplen la función para almacenar o exhibirs, dependiendo del tipo de producto y las dimensiones del lugar de venta. Pueden llegar a un cuarto frigorífico, cuarto frío o directamente a los congeladores y cámaras refrigeradas para la exhibición del producto. Es fundamental el uso de los equipos y contenedores como estibas, contenedores, es decir, el embalaje debe ser el adecuado y garantizar la circulación de aire. 
+          p Dependiendo el destino de producto, los puntos de venta cumplen la función para almacenar o exhibir, dependiendo del tipo de producto y las dimensiones del lugar de venta. Pueden llegar a un cuarto frigorífico, cuarto frío o directamente a los congeladores y cámaras refrigeradas para la exhibición del producto. Es fundamental el uso de los equipos y contenedores como estibas, contenedores, es decir, el embalaje debe ser el adecuado y garantizar la circulación de aire. 
 
         p.mt-3 Entre las cámaras de exposición o exhibición se tienen diferentes tipos, pueden tener puertas o no, pero siempre procurando conservar una temperatura ideal hasta que el cliente o consumidor final tome el producto y se encargue de llevarlo en el menor tiempo posible hasta su hogar, donde finalmente será consumido. 
 

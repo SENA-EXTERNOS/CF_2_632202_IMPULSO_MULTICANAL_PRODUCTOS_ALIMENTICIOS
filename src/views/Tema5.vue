@@ -10,7 +10,10 @@
     .row.justify-content-center.mt-5
       .col-11.col-lg-7
         .cajon.color-acento-botones.p-4
-          p Es una actividad que involucra todos los niveles de la sociedad y disciplinas laborales, se enfoca en proteger y promover beneficios en la salud física, mental y emocional de los trabajadores mediante actividades de prevención de accidentes y enfermedades laborales. 
+          p El Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG SST) históricamente ha estado evolucionando y reformándose por medio de normativas y decretos que van reglamentando obligatoriedad de su cumplimiento. Este inició con los programas de salud ocupacional, los cuales consistían en la planeación y ejecución de actividades de medicina, seguridad e higiene industrial con el objetivo de mantener y mejorar la salud de los trabajadores.
+            br
+            |Para finalizar este componente formativo, se hace una recopilación del cumplimiento de la norma que regula la SG SST, descripción de los elementos de protección que debe utilizar el trabajador y las medidas de prevención asociadas. 
+
         p.mt-3 En el año 2012 fue necesaria la actualización de la normativa colombiana, lo que dio lugar a la Ley 1562 de 2012, cuyo principal aporte consistió en reemplazar el Programa de Salud Ocupacional, por el Sistema de Gestión de la Seguridad y la Salud en el Trabajo SG SST. La reglamentación de esta ley llegó dos años después, con el Decreto 1443 de 2014, el cual constituye un manual para implementar el SG SST en todas las organizaciones. (Safetya, 2015) 
 
       .col-10.col-lg-5
@@ -43,10 +46,8 @@
     .row.justify-content-center.mt-5.mb-5
       .col-8.col-lg-2.mb-3.mt-2
         figure
-          img(src='@/assets/curso/temas/tema5/img3.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema5/c1.svg', alt='Texto que describa la imagen')
           
-        figure
-          img(src='@/assets/curso/temas/tema5/img4.png', alt='Texto que describa la imagen').img-animacion11
 
       .col-11.col-lg-10
         p Los elementos de protección son indispensables a la hora de realizar todo tipo de actividades en un supermercado o punto de dispensación de alimentos. 

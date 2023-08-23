@@ -64,7 +64,6 @@
           .col-md-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img6.png', alt='Texto que describa la imagen')
-             
           .col-md-5
             p.mt-5 Al momento de construir una bodega y un cuarto de almacenamiento es fundamental pensar en los techos, estos deben ser de un material resistente, duradero, deben tener una altura adecuada para la circulación del aire. Asimismo, se debe procurar que no se desprendan ningún tipo de elemento ya sea residuos, gotas o demás que puedan alterar los productos alimenticios.
 
@@ -73,7 +72,6 @@
           .col-md-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img7.png', alt='Texto que describa la imagen')
-              
           .col-md-5
             p.mt-5 Las puertas y ventanas deben estar construidas de un material resistente y de fácil desinfección, qué no entre en contacto ni genere elementos tóxicos que puedan generar algún tipo de contaminación a los alimentos, ejemplo de estos pueden ser materiales antioxidantes como aluminio. También se debe procurar unas dimensiones adecuadas para la circulación de equipos y del personal. 
             p Las ventanas deben tener una altura adecuada y ser construidas de tal manera que impida el ingreso de plagas y permita la circulación de aire, de luz (esto si aplica), ya que en situaciones como #[strong cuartos fríos] se procura tener un ambiente completamente aislado de la luz solar con el ánimo de conservar el frío haciendo un uso energético eficiente e impedir el ingreso de plagas. 
@@ -263,7 +261,7 @@
 
     .row.mt-5.justify-content-center
       .col-11.col-lg-7
-        p Las plagas, pueden se pueden presentar donde hayan alimentos y puedan alterar el producto. Es muy importante realizar las buenas prácticas de limpieza y desinfección tanto en las bodegas o almacenes, así como en los puntos de expendio o exhibición. Se debe realizar la vigilancia y control de todo tipo de productos o elementos que ingresen al establecimiento, verificar fechas de caducidad, realizar la rotación adecuada, velar por el buen estado de las instalaciones y contar con todas las normas vigentes y elementos de seguridad para evitar la propagación de plagas.
+        p Las plagas, se pueden presentar donde haya alimentos y puedan alterar el producto. Es muy importante realizar las buenas prácticas de limpieza y desinfección tanto en las bodegas o almacenes, así como en los puntos de expendio o exhibición. Se debe realizar la vigilancia y control de todo tipo de productos o elementos que ingresen al establecimiento, verificar fechas de caducidad, realizar la rotación adecuada, velar por el buen estado de las instalaciones y contar con todas las normas vigentes y elementos de seguridad para evitar la propagación de plagas.
 
       .col-11.col-lg-5
          figure
