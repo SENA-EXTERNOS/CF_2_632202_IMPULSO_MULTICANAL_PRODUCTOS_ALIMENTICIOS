@@ -14,7 +14,7 @@
             br
             |Para finalizar este componente formativo, se hace una recopilación del cumplimiento de la norma que regula la SG SST, descripción de los elementos de protección que debe utilizar el trabajador y las medidas de prevención asociadas. 
 
-        p.mt-3 En el año 2012 fue necesaria la actualización de la normativa colombiana, lo que dio lugar a la Ley 1562 de 2012, cuyo principal aporte consistió en reemplazar el Programa de Salud Ocupacional, por el Sistema de Gestión de la Seguridad y la Salud en el Trabajo SG SST. La reglamentación de esta ley llegó dos años después, con el Decreto 1443 de 2014, el cual constituye un manual para implementar el SG SST en todas las organizaciones. (Safetya, 2015) 
+        
 
       .col-10.col-lg-5
         figure
