@@ -221,7 +221,8 @@ export default {
       referencia:
         'Ramírez, N. (2010). <em>Estandarización y control de calidad en procesos de recibo, almacenamiento, distribución y servida de alimentos.</em>',
       tipo: 'Tesis',
-      link: '/downloads/anexo2.pdf',
+      link:
+        'https://catedraalimentacioninstitucional.files.wordpress.com/2017/02/estand1.pdf',
     },
   ],
   glosario: [
