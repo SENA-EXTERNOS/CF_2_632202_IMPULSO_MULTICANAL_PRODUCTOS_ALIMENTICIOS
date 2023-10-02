@@ -56,7 +56,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/img3.png', alt='Texto que describa la imagen')
 
-      .tarjeta.color-primario--borde.p-4(titulo="Vehículos con equipo autónomo:")
+      .tarjeta.color-primario--borde.p-4(titulo="Vehículos con equipo<br> autónomo:")
         .row.justify-content-center
           .col-10.col-lg-7
             p.mt-5 Cuentan con todo un equipo destinado a la producción de frío que garantiza la calidad de los alimentos, como por ejemplo hielo seco.
@@ -84,7 +84,7 @@
                   h3.mb-1 Tipos de vehículo
                   p Para ampliar información acerca de tipos de vehículos, se puede hacer exploración en el siguiente documento.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Tipos_de_vehículos.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Tipos_de_vehículos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
