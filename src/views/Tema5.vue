@@ -34,7 +34,7 @@
 
       .col-11.col-lg-7.mt-3
         p La Seguridad y Salud en el Trabajo (SST) es una actividad que involucra todos los niveles de la sociedad y disciplinas laborales, se enfoca en proteger y promover beneficios en la salud física, mental y emocional de los trabajadores mediante actividades de prevención de accidentes y enfermedades laborales. 
-        p En el año 2012 fue necesaria la actualización de la normativa colombiana, lo que dio lugar a la Ley 1562 de 2012, cuyo principal aporte consistió en reemplazar el Programa de Salud Ocupacional, por el Sistema de Gestión de la Seguridad y la Salud en el Trabajo SG-SST. La reglamentación de esta ley llegó dos años después, con el Decreto 1443 de 2014, el cual constituye un manual para implementar el SG SST en todas las organizaciones. (Safetya, 2015) 
+        p En el año 2012 fue necesaria la actualización de la normativa colombiana, lo que dio lugar a la Ley 1562 de 2012, cuyo principal aporte consistió en reemplazar el Programa de Salud Ocupacional, por el Sistema de Gestión de la Seguridad y la Salud en el Trabajo SG-SST. La reglamentación de esta ley llegó dos años después, con el Decreto 1443 de 2014, el cual constituye un manual para implementar el SG-SST en todas las organizaciones. (Safetya, 2015) 
 
     separador
 
